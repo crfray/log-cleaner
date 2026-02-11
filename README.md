@@ -25,5 +25,5 @@ This is a small practice project for learning Bash scripting, file management, a
 ## Usage
 
 ```bash
-./clean_old_logs.sh /path/to/logs N
+./clean-old-logs.sh /path/to/logs N
 ```
